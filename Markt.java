@@ -34,7 +34,7 @@ public class Markt {
                 j--;
             }
         }
-        System.out.println("Ortalamanin Altinda Kazanc Gunleri:::: : " + gunler);
+        System.out.println("Ortalamanin Altinda Kazanc Gunleri::: : " + gunler);
     }
 
     private static void getOrtalamaninUstundeKazancGunleri(double ortKazanc, ArrayList<String> gunler, ArrayList<Double> gkazanclar) {
